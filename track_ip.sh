@@ -2,7 +2,7 @@
 
 if [ "$1" ==  "" ]
 then
-    echo "Usage: $0 IP_ADDRESS or Usage: $0 DOMAIN"
+    echo "Usage: $0 IP_ADDRESS or Usage: $0 DOMAIN_NAME"
     echo "Example-1: $0 8.8.8.8"
     echo "Example-2: $0 google.com"
 fi
