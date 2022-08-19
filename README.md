@@ -11,7 +11,7 @@ This is a bash script which can be used to find the location, coordinates and IS
 
 3.You can either enter an IP Address or a domain name (Eg: google.com ,facebook.com , basically without the http,www stuff and and any api points after the domain name)
 
-Usage:   `` ./track_ip.sh IP_ADDRESS or Usage: ./track_ip.sh DOMAIN ``
+Usage:   `` ./track_ip.sh IP_ADDRESS or Usage: ./track_ip.sh DOMAIN_NAME``
 
 Example-1:  `` ./track_ip.sh 8.8.8.8 ``
 
