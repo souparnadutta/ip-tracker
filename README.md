@@ -2,7 +2,19 @@
 
 This is a bash script which can be used to find the location, coordinates and ISP of an IP address.
 
+## How to install:-
 
+`` apt update ``
+
+apt install git -y
+
+git clone https://github.com/rajkumardusad/IP-Tracer.git
+
+cd IP-Tracer
+
+chmod +x install
+
+sh install or ./install
 ## How to run:-
 
 1. Download the track_ip.sh script file 
