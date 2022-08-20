@@ -22,7 +22,7 @@ First 2 commands should be used if git is not installed in the system. Otherwise
 
 ## How to run:-
 
-You can either enter an IP Address or a domain name (Eg: google.com ,facebook.com , basically without the http,www stuff and and any api points after the domain name)
+You can either enter an IP Address or a domain name (Eg: google.com ,facebook.com , basically without the http,www stuff and and any api endpoints after the domain name)
 
 The following line shows the syntax to be used in the script. You can copy the examples for demo purposes and then play around by entering different ip addresses and domain names.
 
