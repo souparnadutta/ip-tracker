@@ -6,11 +6,11 @@ This is a bash script which can be used to find the location, coordinates and IS
 
 `` apt update ``
 
-``apt install git -y
+`` apt install git -y
 
-``git clone https://github.com/rajkumardusad/IP-Tracer.git
+`` git clone https://github.com/rajkumardusad/IP-Tracer.git
 
-``cd ip-tracker
+`` cd ip-tracker
 
  chmod +x 
 
