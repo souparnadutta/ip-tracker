@@ -1,10 +1,13 @@
 # Ip Tracker
 
-This project uses a bash script which can be used to find the location, coordinates and ISP of an IP address. This can be used in any Linux and Termux environmets.
+This project uses a bash script which can be used to find the location, coordinates and ISP of an IP address. This can be used in any Linux and Termux based environments.
+
+It uses ip-api to get the details.
+API Link: https://ip-api.com/
 
 ## How to install:-
 
-First 2 commands should be used if git is not installed in the system. Otherwise, begin from the 3rd command
+First 2 commands should be used if git is not installed in the system. Otherwise, you can directly begin from the 3rd command.
 
 * `` sudo apt update ``
 
