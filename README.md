@@ -3,6 +3,7 @@
 This project uses a bash script which can be used to find the location, coordinates and ISP of an IP address. This can be used in any Linux and Termux based environments.
 
 It uses ip-api to get the details.
+
 API Link: https://ip-api.com/
 
 ## How to install:-
