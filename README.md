@@ -4,6 +4,8 @@ This is a bash script which can be used to find the location, coordinates and IS
 
 ## How to install:-
 
+First 2 commands should be used if git is not installed in the system. Otherwise, begin from the 3rd command
+
 * `` sudo apt update ``
 
 * `` sudo apt install git -y ``
@@ -14,15 +16,11 @@ This is a bash script which can be used to find the location, coordinates and IS
 
 * `` chmod +x track_ip.sh``
 
-* ``./install ``
-
 ## How to run:-
 
-1. Download the track_ip.sh script file 
+You can either enter an IP Address or a domain name (Eg: google.com ,facebook.com , basically without the http,www stuff and and any api points after the domain name)
 
-2. Open a bash terminal
-
-3. You can either enter an IP Address or a domain name (Eg: google.com ,facebook.com , basically without the http,www stuff and and any api points after the domain name)
+The following line shows the syntax to be used in the script. You can copy the examples for demo purposes and then play around by entering different ip addresses and domain names.
 
 Usage:   `` ./track_ip.sh IP_ADDRESS or Usage: ./track_ip.sh DOMAIN_NAME``
 
