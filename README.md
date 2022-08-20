@@ -4,9 +4,9 @@ This is a bash script which can be used to find the location, coordinates and IS
 
 ## How to install:-
 
-* `` apt update ``
+* `` sudo apt update ``
 
-* `` apt install git -y ``
+* `` sudo apt install git -y ``
 
 * `` git clone https://github.com/rajkumardusad/IP-Tracer.git ``
 
