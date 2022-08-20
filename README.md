@@ -10,7 +10,7 @@ First 2 commands should be used if git is not installed in the system. Otherwise
 
 * `` sudo apt install git -y ``
 
-* `` git clone https://github.com/rajkumardusad/IP-Tracer.git ``
+* `` git clone https://github.com/souparnadutta/ip-tracker.git ``
 
 * `` cd ip-tracker ``
 
